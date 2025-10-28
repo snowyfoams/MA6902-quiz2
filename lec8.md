@@ -1,9 +1,9 @@
-1. HYDRAULIC SYSTEM ⭐⭐⭐ (HIGH PRIORITY)
-1920s-1930s:  ~1,000 PSI (landing gear only)
-1940s (WWII): 1,500-2,000 PSI (power-assisted controls)
-1950s-1960s:  3,000 PSI (jet age)
-1970s-Present: 5,000 PSI (commercial standard)
-2000s+:        8,000+ PSI (military aircraft)
+## **1. HYDRAULIC SYSTEM ⭐⭐⭐ (HIGH PRIORITY)
+- 1920s-1930s: ~1,000 PSI (landing gear only)
+- 1940s (WWII): 1,500-2,000 PSI (power-assisted controls)
+- 1950s-1960s: 3,000 PSI (jet age)
+- 1970s-Present: 5,000 PSI (commercial standard)
+- 2000s+: 8,000+ PSI (military aircraft)
 ```
 
 ### **THE CRITICAL EXAM QUESTION: Why 5,000 PSI?**
