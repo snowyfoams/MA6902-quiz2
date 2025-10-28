@@ -485,7 +485,85 @@ Autopilot 1 ─── FAILED ✗
 - Safe state, but requires pilot action
 
 ---
+## 📍 **TOPIC 4: LANDING GEAR**
 
+### **What Will Be Asked** (Key Points Doc)
+
+> "One question only for the whole landing gear topic"
+> "Probably focus on **weight reduction part**"
+> "How it influenced the design of aircraft"
+
+#### **Material Technology Focus (L7, pp.47-53)**
+
+**Don't worry about:** Historical details, all the weights, timeline details
+
+**KEY FOCUS: Material used for landing gear**
+
+✅ **Significant weight reduction: 15-20% in 1960s** (Key Points Doc)
+- Modern: 3-5% of aircraft weight (L7, p.48)
+- Historical: 8-10% of aircraft weight
+
+✅ **Today: Carbon fiber - weight reduction goes even further** (Key Points Doc)
+
+**Material Technology Impact (L7, pp.49-52):**
+
+| Material | Weight Reduction | Application |
+|----------|-----------------|-------------|
+| **Titanium** | 40% lighter than steel | Most hydraulic pipes on 5,000 PSI systems |
+| **Aluminum 7000** | 60% lighter than steel | Non-critical components |
+| **Carbon fiber** | 20-30% lighter | Wheels, fairings |
+| **Carbon brake discs** | 40% lighter | Brake systems |
+
+**How Material Technology Influences (Key Points Doc):**
+1. Design of landing gear
+2. Manufacturing processes
+
+**Likely Question:**
+- "How has material technology enabled landing gear weight reduction?"
+- "What is the impact of titanium use in modern landing gear?"
+- Multiple choice: identify correct weight reduction percentages
+
+---
+
+## 📍 **TOPIC 5: CABIN PRESSURIZATION**
+
+### **What Will Be Asked** (Key Points Doc)
+
+> "Very Important: Jet aircraft started with pressurized aircraft"
+
+**Don't spend time on:** Historical development details, detailed specifications
+
+**Focus on:** Evolutionary milestones (last part of chapter), which technology gives important change
+
+#### **Impact on Fuselage (L7, pp.54-56)**
+
+✅ **Pressure difference makes fatigue strength very important** (Key Points Doc)
+
+**Why Pressurization Critical:**
+- Cruise altitude: 35,000-41,000 ft (ambient pressure: 3.5 psi)
+- Cabin maintained at: 6,000-8,000 ft equivalent (11 psi)
+- Pressure differential: 8-9 psi
+- This creates stress on fuselage structure
+
+**Evolutionary Milestones to Know (L7, pp.56-57, 60):**
+
+1. **Lockheed XC-35 (1937)**: First pressurized aircraft
+2. **Boeing 307 (1938)**: First pressurized airliner
+3. **De Havilland Comet (1949)**: First jet with full pressurization
+4. **Modern standard**: 6,000 ft cabin altitude (vs. 8,000 ft earlier)
+
+**Impact on Design:**
+- Fuselage becomes pressure vessel
+- Fatigue-resistant materials required
+- Window design critical (stress concentration)
+- Door seals and pressure relief systems essential
+
+**Likely Question:**
+- "Why is cabin pressurization important for jet aircraft?"
+- "What is the main structural impact of cabin pressurization?"
+- "What cabin altitude standard is used in modern aircraft?"
+
+---
 ### Exam Preparation - Autoland Systems
 
 **Likely Question Formats:**
@@ -513,7 +591,7 @@ Autopilot 1 ─── FAILED ✗
 
 ---
 
-## 📍 Topic 4: Key Evolutionary Drivers ⭐⭐⭐
+## 📍 Topic 6: Key Evolutionary Drivers ⭐⭐⭐
 
 **Source:** Lecture 7, pp.16-17, 38; Quiz Key Points Document  
 **Exam Focus:** What drives ALL aircraft systems evolution  
